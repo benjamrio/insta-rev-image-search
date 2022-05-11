@@ -1,2 +1,3 @@
 # insta-rev-image-search
-Search an instagram picture on the web
+
+Search an Instagram picture on the web
