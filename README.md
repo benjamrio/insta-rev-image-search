@@ -1,3 +1,3 @@
 # insta-rev-image-search
 
-Search an Instagram picture on the web
+Chrom extension to search an Instagram picture on the web
